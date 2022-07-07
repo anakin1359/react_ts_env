@@ -7,6 +7,7 @@ export const Practice3 = () => {
     };
 
     const onClickPractice = () => {
+        // 変数に型を指定する
         let total: number = 0;
         total = getTaxTotalRateCalculation(1000);
         console.log(total);
