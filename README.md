@@ -13,6 +13,11 @@ package.json loading
 yarn install
 ```
 
+library install
+```
+yarn add ${library-name}
+```
+
 start project
 ```
 yarn start
